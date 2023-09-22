@@ -10,7 +10,7 @@ int main(){
 
     while(t--)
     {
-        int n, x, corais = 0, height, aux, total;
+        long long int n, x, corais = 0, height, aux, total;
         cin >> n >> x;
         vector<int> seq;
         for(int i = 0; i < n; i++)
